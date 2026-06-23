@@ -1,10 +1,10 @@
-#  This project presents a Digital Image Processing (DIP) project comprising four independent image-segmentation tasks, each addressing a different real-world detection problem using classical computer vision techniques
+#  A Hybrid Digital Image Processing Framework for Medical and Botanical Lesion Segmentation: Brain Tumor, Diabetic Retinopathy, and Leaf Disease Detection Using Classical Computer Vision Techniques
 
 
 
 ## Overview
 
-This project covers four fundamental Digital Image Processing (DIP) tasks implemented in MATLAB. Each task demonstrates a core image processing technique — from basic color space manipulation to filtering, histogram analysis, and image blending.
+This project covers four fundamental Digital Image Processing (DIP) tasks implemented in MATLAB/Vscode. Each task demonstrates a core image processing technique — from basic color space manipulation to filtering, histogram analysis, and image blending.
 
 ---
 
