@@ -1,4 +1,4 @@
-# DIP Project 7 — Digital Image Processing
+#  Digital Image Processing
 
 
 
