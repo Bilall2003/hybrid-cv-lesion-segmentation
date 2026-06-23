@@ -1,4 +1,4 @@
-#  Digital Image Processing
+#  This project presents a Digital Image Processing (DIP) project comprising four independent image-segmentation tasks, each addressing a different real-world detection problem using classical computer vision techniques
 
 
 
