@@ -1,15 +1,6 @@
 # DIP Project 7 — Digital Image Processing
 
-## Group Members
 
-| Name | Roll No |
-|---|---|
-| Muhammad Zain Shamim | 23SP-014-CS |
-| Muhammad Hasan | 23SP-005-CS |
-| Bilal Ahmed | 23SP-061-CS |
-| Hanzala Irfan | 23SP-053-CS |
-
----
 
 ## Overview
 
